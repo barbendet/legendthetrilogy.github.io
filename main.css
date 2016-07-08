@@ -1,0 +1,28 @@
+table{
+    background-color: lightsalmon;
+    width: 100%
+}
+
+
+
+
+
+td{
+    
+    text-align: center;
+    padding: 11px;
+
+}
+
+
+
+td:hover{
+    background-color: darkgray;
+    
+}
+
+a{
+    color:black;
+    text-decoration: none;
+    font-family: Courier;
+}
